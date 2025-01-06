@@ -27,6 +27,29 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+      
+Num | Nome | Nota
+---|---|---
+1 | Gustavo| 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+
+Terminou a tabela
+
+Olha meu programa em Python
+
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+```
+
+`este é foda`
+
+
+
 ![a0d5e9f43769a9147d727e5e258ab70a](https://github.com/user-attachments/assets/eaf41699-f0c5-46a9-b995-005fc944692d)
 
 [Acesse meu GitHub](https://github.com/ViniciusAlmeidaAndrade)
